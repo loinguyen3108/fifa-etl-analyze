@@ -1,0 +1,4 @@
+pyspark
+flake8
+autopep8
+hdfs
