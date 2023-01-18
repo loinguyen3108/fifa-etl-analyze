@@ -8,7 +8,7 @@
 - [🚩 Table of Contents](#-table-of-contents)
 - [🎨 Stack](#-stack)
   - [⚙️ Setup](#️-setup)
-- [Fifa Star Schema](#fifa-star-schema)
+- [⭐ Fifa Star Schema](#fifa-star-schema)
 - [✍️ Example](#️-example)
 - [📜 License](#-license)
 
@@ -90,7 +90,7 @@ spark-submit --py-files packages.zip manager/transform .py--init --exec-date YYY
 spark-submit --py-files packages.zip manager/transform.py --fifa-version <version>
 ```
 
-## Fifa Star Schema
+## ⭐ Fifa Star Schema
 [Fifa schema](https://drive.google.com/file/d/1WN8exuq16WHIwoXQAJkXhd-xI7NxO1Go/view?usp=sharing)
 
 ## ✍️ Example
