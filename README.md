@@ -1,4 +1,4 @@
-# ![Fifa Player](https://github.com/loinguyen3108/dvdrental-etl/blob/main/images/fifa_logo.gif?raw=true)
+<img src="https://github.com/loinguyen3108/fifa-etl-analyze/blob/main/images/fifa-logo.jpg?raw=true" alt="Fifa Player" width="500"/>
 
 > This is project ETL data from csv files to hive. Then, this data will be analyze with superset
 
