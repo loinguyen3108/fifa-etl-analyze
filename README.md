@@ -1,6 +1,6 @@
 <img src="https://github.com/loinguyen3108/fifa-etl-analyze/blob/main/images/fifa-logo.jpg?raw=true" alt="Fifa Player" width="500"/>
 
-> This is project ETL data from csv files to hive. Then, this data will be analyze with superset
+> This is project ETL data from csv files to hive. Then, this data will be analyzed with superset
 
 [![github release date](https://img.shields.io/github/release-date/loinguyen3108/fifa-etl-analyze)](https://github.com/loinguyen3108/fifa-etl-analyze/releases/tag/latest) [![commit active](https://img.shields.io/github/commit-activity/w/loinguyen3108/fifa-etl-analyze)](https://github.com/loinguyen3108/fifa-etl-analyze/commit/main) [![license](https://img.shields.io/badge/license-Apache-blue)](https://github.com/nhn/tui.editor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/loinguyen3108/fifa-etl-analyze/issues) [![code with hearth by Loi Nguyen](https://img.shields.io/badge/DE-Loi%20Nguyen-orange)](https://github.com/loinguyen3108)
 
