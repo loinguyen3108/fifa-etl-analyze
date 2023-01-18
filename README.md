@@ -5,12 +5,16 @@
 [![github release date](https://img.shields.io/github/release-date/loinguyen3108/fifa-etl-analyze)](https://github.com/loinguyen3108/fifa-etl-analyze/releases/tag/latest) [![commit active](https://img.shields.io/github/commit-activity/w/loinguyen3108/fifa-etl-analyze)](https://github.com/loinguyen3108/fifa-etl-analyze/commit/main) [![license](https://img.shields.io/badge/license-Apache-blue)](https://github.com/nhn/tui.editor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/loinguyen3108/fifa-etl-analyze/issues) [![code with hearth by Loi Nguyen](https://img.shields.io/badge/DE-Loi%20Nguyen-orange)](https://github.com/loinguyen3108)
 
 ## 🚩 Table of Contents
-- [🚩 Table of Contents](#-table-of-contents)
-- [🎨 Stack](#-stack)
-  - [⚙️ Setup](#️-setup)
-- [Fifa Star Schema](#fifa-star-schema)
-- [✍️ Example](#️-example)
-- [📜 License](#-license)
+- [](#)
+  - [🚩 Table of Contents](#-table-of-contents)
+  - [🎨 Stack](#-stack)
+    - [⚙️ Setup](#️-setup)
+  - [Fifa Star Schema](#fifa-star-schema)
+  - [✍️ Example](#️-example)
+- [](#-1)
+- [](#-2)
+- [](#-3)
+  - [📜 License](#-license)
 
 ## 🎨 Stack
 
@@ -50,7 +54,7 @@ Login and take a look -- navigate to http://localhost:8080/login/ -- u/p: [admin
 Setup at [spark document](https://spark.apache.org/docs/latest/spark-standalone.html)
 
 **3. Dataset**  
-Data is downloaded at [PostgreSQL Sample Database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+Data is downloaded at [Fifa Dataset](https://drive.google.com/file/d/1BKEHD8FaTD3uLKU0dU9w-4SVs_4z1RmA/view?usp=sharing)
 
 **4. Environment**
 ```
@@ -94,10 +98,15 @@ spark-submit --py-files packages.zip manager/transform.py --fifa-version <versio
 [Fifa schema](https://drive.google.com/file/d/1WN8exuq16WHIwoXQAJkXhd-xI7NxO1Go/view?usp=sharing)
 
 ## ✍️ Example
+
 - Data Lake
-# ![Data Lake](https://github.com/loinguyen3108/dvdrental-etl/blob/main/images/datalake.png?raw=true)
+# ![Data Lake](https://github.com/loinguyen3108/fifa-etl-analyze/blob/main/images/datalake.png?raw=true)
+
 - Hive
-# ![Hive](https://github.com/loinguyen3108/dvdrental-etl/blob/main/images/hive.png?raw=true)
+# ![Hive](https://github.com/loinguyen3108/fifa-etl-analyze/blob/main/images/hive.png?raw=true)
+
+- Superset
+# ![Superset](https://github.com/loinguyen3108/fifa-etl-analyze/blob/main/images/superset.jpg?raw=true)
 ## 📜 License
 
 This software is licensed under the [Apache](https://github.com/loinguyen3108/dvdrental-etl/blob/master/LICENSE) © [Loi Nguyen](https://github.com/loinguyen3108).
